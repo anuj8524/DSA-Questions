@@ -35,6 +35,6 @@ class Solution {
         }
         n.next = head;
         head = p;
-        return p;
+        return head;
     }
 }
