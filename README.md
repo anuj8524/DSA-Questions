@@ -18,6 +18,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anuj8524/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj8524/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/anuj8524/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -32,5 +33,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anuj8524/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/anuj8524/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anuj8524/DSA-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
