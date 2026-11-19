@@ -6,6 +6,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuj8524/DSA-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/anuj8524/DSA-Questions/tree/master/1207-unique-number-of-occurrences) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anuj8524/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anuj8524/DSA-Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anuj8524/DSA-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
@@ -55,8 +56,13 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuj8524/DSA-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anuj8524/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anuj8524/DSA-Questions/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anuj8524/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
