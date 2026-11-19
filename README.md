@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/anuj8524/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anuj8524/DSA-Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
@@ -33,10 +34,12 @@
 | [0141-linked-list-cycle](https://github.com/anuj8524/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj8524/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/anuj8524/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/anuj8524/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anuj8524/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/anuj8524/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
 |  |
 | ------- |
