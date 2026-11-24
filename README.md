@@ -16,6 +16,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anuj8524/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anuj8524/DSA-Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anuj8524/DSA-Questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3174-clear-digits](https://github.com/anuj8524/DSA-Questions/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anuj8524/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/anuj8524/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/anuj8524/DSA-Questions/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +73,5 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anuj8524/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3174-clear-digits](https://github.com/anuj8524/DSA-Questions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
