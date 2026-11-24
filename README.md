@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/anuj8524/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anuj8524/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anuj8524/DSA-Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anuj8524/DSA-Questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Hash Table
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anuj8524/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anuj8524/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
