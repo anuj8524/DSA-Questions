@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/anuj8524/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuj8524/DSA-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/anuj8524/DSA-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anuj8524/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -38,6 +39,7 @@
 | [0141-linked-list-cycle](https://github.com/anuj8524/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj8524/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/anuj8524/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/anuj8524/DSA-Questions/tree/master/0455-assign-cookies) |
 | [2000-reverse-prefix-of-word](https://github.com/anuj8524/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -59,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/anuj8524/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuj8524/DSA-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anuj8524/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Floyd's Cycle Finding Algorithm
@@ -68,10 +71,15 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/anuj8524/DSA-Questions/tree/master/0455-assign-cookies) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anuj8524/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Simulation
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anuj8524/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/anuj8524/DSA-Questions/tree/master/3174-clear-digits) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/anuj8524/DSA-Questions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
