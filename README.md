@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/anuj8524/DSA-Questions/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/anuj8524/DSA-Questions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/anuj8524/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anuj8524/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anuj8524/DSA-Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -50,6 +51,7 @@
 | [0234-palindrome-linked-list](https://github.com/anuj8524/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/anuj8524/DSA-Questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/anuj8524/DSA-Questions/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/anuj8524/DSA-Questions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/anuj8524/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/anuj8524/DSA-Questions/tree/master/3174-clear-digits) |
 ## Recursion
