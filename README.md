@@ -6,6 +6,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/anuj8524/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuj8524/DSA-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0739-daily-temperatures](https://github.com/anuj8524/DSA-Questions/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/anuj8524/DSA-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anuj8524/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anuj8524/DSA-Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anuj8524/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/anuj8524/DSA-Questions/tree/master/0739-daily-temperatures) |
 | [2000-reverse-prefix-of-word](https://github.com/anuj8524/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/anuj8524/DSA-Questions/tree/master/3174-clear-digits) |
 ## Recursion
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anuj8524/DSA-Questions/tree/master/0455-assign-cookies) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/anuj8524/DSA-Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
