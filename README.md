@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anuj8524/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0844-backspace-string-compare](https://github.com/anuj8524/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/anuj8524/DSA-Questions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/anuj8524/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
@@ -97,4 +98,16 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/anuj8524/DSA-Questions/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anuj8524/DSA-Questions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anuj8524/DSA-Questions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anuj8524/DSA-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
