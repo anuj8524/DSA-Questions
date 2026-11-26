@@ -6,6 +6,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/anuj8524/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuj8524/DSA-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0682-baseball-game](https://github.com/anuj8524/DSA-Questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/anuj8524/DSA-Questions/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/anuj8524/DSA-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anuj8524/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anuj8524/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/anuj8524/DSA-Questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/anuj8524/DSA-Questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/anuj8524/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/anuj8524/DSA-Questions/tree/master/1544-make-the-string-great) |
@@ -83,6 +85,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/anuj8524/DSA-Questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anuj8524/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anuj8524/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/anuj8524/DSA-Questions/tree/master/3174-clear-digits) |
